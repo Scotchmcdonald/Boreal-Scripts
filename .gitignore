@@ -1,0 +1,42 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor specific
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Credentials and secrets
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.json
+secrets.json
+.env
+.env.local
+
+# Output and cache
+output/
+cache/
+logs/
+*.cache
+
+# Test artifacts
+test-output/
+test-results/
